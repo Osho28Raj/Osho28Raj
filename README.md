@@ -3,7 +3,6 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on NOthing
-- 
 # Contact
 - 📫 How to reach me [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/o_s_h_o_r_a_j)
 # GitHub Stats
