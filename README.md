@@ -1,7 +1,7 @@
 # Hey, I am Osho <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 - 👋 Hi, I’m [@i-osho](https://osho.tech)
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning [**Python**](https://www.python.org/) | [**Java**](https://www.java.com/) | [**GoLang**](https://go.dev/)
+- 🌱 I’m currently learning [**Python**](https://www.python.org/) | [**Java**](https://www.java.com/) | [**Japanese**](https://en.wikipedia.org/wiki/Japanese_language)
 - 💞️ I’m looking to collaborate on NOthing
 # Contact
 - 📫 How to reach me
