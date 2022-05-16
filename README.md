@@ -1,7 +1,7 @@
 # Hey, I am Osho <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 - 👋 Hi, I’m [@i-osho](https://osho.tech)
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning [**Python**](https://www.python.org/) | [**Java**](https://www.java.com/) | [**Japanese**](https://en.wikipedia.org/wiki/Japanese_language)
+- 🌱 I’m currently learning [**Python**](https://www.python.org/) | [**Java**](https://www.java.com/) | [**Japanese**](https://en.wikipedia.org/wiki/Japanese_language) | [**Guitar!?**](https://yousician.com/)
 - 💞️ I’m looking to collaborate on NOthing
  
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=i-osho&theme=github_dark&count_private=true&show_icons=true&hide_border=true&hide_title=true)](https://github.com/i-osho)
